@@ -100,7 +100,7 @@ Make sure that Java and [Git](https://git-scm.com) are installed on your compute
 ## Cloning the repository
 Use the following URL to clone this repository:
 ```
-https://github.com/shelllybean/GDDemo.git
+https://github.com/RR-LightF-CodeChallenge/ListSortApp_RR.git
 ```
 <br/><br/> 
 
